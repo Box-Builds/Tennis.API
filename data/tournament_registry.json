@@ -1,0 +1,471 @@
+[
+  {
+    "Id": "9900",
+    "Name": "United Cup",
+    "SglDrawSize": 18,
+    "DblDrawSize": 18,
+    "Type": "UC"
+  },
+  {
+    "Id": "339",
+    "Name": "Brisbane International presented by ANZ",
+    "SglDrawSize": 32,
+    "DblDrawSize": 24,
+    "Type": "250"
+  },
+  {
+    "Id": "336",
+    "Name": "Bank of China Hong Kong Tennis Open",
+    "SglDrawSize": 28,
+    "DblDrawSize": 16,
+    "Type": "250"
+  },
+  {
+    "Id": "8998",
+    "Name": "Adelaide International",
+    "SglDrawSize": 28,
+    "DblDrawSize": 24,
+    "Type": "250"
+  },
+  {
+    "Id": "301",
+    "Name": "ASB Classic",
+    "SglDrawSize": 28,
+    "DblDrawSize": 16,
+    "Type": "250"
+  },
+  {
+    "Id": "580",
+    "Name": "Australian Open",
+    "SglDrawSize": 128,
+    "DblDrawSize": 64,
+    "Type": "GS"
+  },
+  {
+    "Id": "375",
+    "Name": "Open Occitanie",
+    "SglDrawSize": 28,
+    "DblDrawSize": 16,
+    "Type": "250"
+  },
+  {
+    "Id": "8096",
+    "Name": "Davis Cup Qualifiers 1st Rd",
+    "SglDrawSize": 4,
+    "DblDrawSize": 1,
+    "Type": "DCR"
+  },
+  {
+    "Id": "424",
+    "Name": "Dallas Open",
+    "SglDrawSize": 32,
+    "DblDrawSize": 16,
+    "Type": "500"
+  },
+  {
+    "Id": "407",
+    "Name": "ABN AMRO Open",
+    "SglDrawSize": 32,
+    "DblDrawSize": 16,
+    "Type": "500"
+  },
+  {
+    "Id": "496",
+    "Name": "Open 13 Provence",
+    "SglDrawSize": 28,
+    "DblDrawSize": 16,
+    "Type": "250"
+  },
+  {
+    "Id": "499",
+    "Name": "Delray Beach Open",
+    "SglDrawSize": 28,
+    "DblDrawSize": 16,
+    "Type": "250"
+  },
+  {
+    "Id": "506",
+    "Name": "IEB+ Argentina Open",
+    "SglDrawSize": 28,
+    "DblDrawSize": 16,
+    "Type": "250"
+  },
+  {
+    "Id": "451",
+    "Name": "Qatar ExxonMobil Open",
+    "SglDrawSize": 32,
+    "DblDrawSize": 16,
+    "Type": "500"
+  },
+  {
+    "Id": "6932",
+    "Name": "Rio Open presented by Claro",
+    "SglDrawSize": 32,
+    "DblDrawSize": 16,
+    "Type": "500"
+  },
+  {
+    "Id": "495",
+    "Name": "Dubai Duty Free Tennis Championships",
+    "SglDrawSize": 32,
+    "DblDrawSize": 16,
+    "Type": "500"
+  },
+  {
+    "Id": "807",
+    "Name": "Abierto Mexicano Telcel presentado por HSBC",
+    "SglDrawSize": 32,
+    "DblDrawSize": 16,
+    "Type": "500"
+  },
+  {
+    "Id": "8996",
+    "Name": "BCI Seguros Chile Open",
+    "SglDrawSize": 28,
+    "DblDrawSize": 16,
+    "Type": "250"
+  },
+  {
+    "Id": "404",
+    "Name": "BNP Paribas Open",
+    "SglDrawSize": 96,
+    "DblDrawSize": 32,
+    "Type": "1000"
+  },
+  {
+    "Id": "403",
+    "Name": "Miami Open presented by Itau",
+    "SglDrawSize": 96,
+    "DblDrawSize": 32,
+    "Type": "1000"
+  },
+  {
+    "Id": "717",
+    "Name": "Fayez Sarofim & Co. U.S. Men's Clay Court Championship",
+    "SglDrawSize": 28,
+    "DblDrawSize": 16,
+    "Type": "250"
+  },
+  {
+    "Id": "360",
+    "Name": "Grand Prix Hassan II",
+    "SglDrawSize": 28,
+    "DblDrawSize": 16,
+    "Type": "250"
+  },
+  {
+    "Id": "4462",
+    "Name": "Tiriac Open presented by UniCredit Bank",
+    "SglDrawSize": 28,
+    "DblDrawSize": 16,
+    "Type": "250"
+  },
+  {
+    "Id": "410",
+    "Name": "Rolex Monte-Carlo Masters",
+    "SglDrawSize": 56,
+    "DblDrawSize": 28,
+    "Type": "1000"
+  },
+  {
+    "Id": "425",
+    "Name": "Barcelona Open Banc Sabadell",
+    "SglDrawSize": 32,
+    "DblDrawSize": 16,
+    "Type": "500"
+  },
+  {
+    "Id": "308",
+    "Name": "BMW Open by Bitpanda",
+    "SglDrawSize": 32,
+    "DblDrawSize": 16,
+    "Type": "500"
+  },
+  {
+    "Id": "1536",
+    "Name": "Mutua Madrid Open",
+    "SglDrawSize": 96,
+    "DblDrawSize": 32,
+    "Type": "1000"
+  },
+  {
+    "Id": "416",
+    "Name": "Internazionali BNL d'Italia",
+    "SglDrawSize": 96,
+    "DblDrawSize": 32,
+    "Type": "1000"
+  },
+  {
+    "Id": "414",
+    "Name": "Bitpanda Hamburg Open",
+    "SglDrawSize": 32,
+    "DblDrawSize": 16,
+    "Type": "500"
+  },
+  {
+    "Id": "322",
+    "Name": "Gonet Geneva Open",
+    "SglDrawSize": 28,
+    "DblDrawSize": 16,
+    "Type": "250"
+  },
+  {
+    "Id": "520",
+    "Name": "Roland Garros",
+    "SglDrawSize": 128,
+    "DblDrawSize": 64,
+    "Type": "GS"
+  },
+  {
+    "Id": "321",
+    "Name": "BOSS OPEN",
+    "SglDrawSize": 28,
+    "DblDrawSize": 16,
+    "Type": "250"
+  },
+  {
+    "Id": "440",
+    "Name": "Libema Open",
+    "SglDrawSize": 28,
+    "DblDrawSize": 16,
+    "Type": "250"
+  },
+  {
+    "Id": "311",
+    "Name": "HSBC Championships",
+    "SglDrawSize": 32,
+    "DblDrawSize": 16,
+    "Type": "500"
+  },
+  {
+    "Id": "500",
+    "Name": "Terra Wortmann Open",
+    "SglDrawSize": 32,
+    "DblDrawSize": 16,
+    "Type": "500"
+  },
+  {
+    "Id": "8994",
+    "Name": "Vanda Pharmaceuticals Mallorca Championships",
+    "SglDrawSize": 28,
+    "DblDrawSize": 16,
+    "Type": "250"
+  },
+  {
+    "Id": "741",
+    "Name": "Lexus Eastbourne Open",
+    "SglDrawSize": 28,
+    "DblDrawSize": 16,
+    "Type": "250"
+  },
+  {
+    "Id": "540",
+    "Name": "Wimbledon",
+    "SglDrawSize": 128,
+    "DblDrawSize": 64,
+    "Type": "GS"
+  },
+  {
+    "Id": "7480",
+    "Name": "Mifel Tennis Open by Telcel Oppo",
+    "SglDrawSize": 28,
+    "DblDrawSize": 16,
+    "Type": "250"
+  },
+  {
+    "Id": "314",
+    "Name": "EFG Swiss Open Gstaad",
+    "SglDrawSize": 28,
+    "DblDrawSize": 16,
+    "Type": "250"
+  },
+  {
+    "Id": "316",
+    "Name": "Nordea Open",
+    "SglDrawSize": 28,
+    "DblDrawSize": 16,
+    "Type": "250"
+  },
+  {
+    "Id": "439",
+    "Name": "Plava Laguna Croatia Open Umag",
+    "SglDrawSize": 28,
+    "DblDrawSize": 16,
+    "Type": "250"
+  },
+  {
+    "Id": "418",
+    "Name": "Mubadala Citi DC Open",
+    "SglDrawSize": 48,
+    "DblDrawSize": 16,
+    "Type": "500"
+  },
+  {
+    "Id": "319",
+    "Name": "Generali Open",
+    "SglDrawSize": 28,
+    "DblDrawSize": 16,
+    "Type": "250"
+  },
+  {
+    "Id": "421",
+    "Name": "National Bank Open Presented by Rogers",
+    "SglDrawSize": 96,
+    "DblDrawSize": 32,
+    "Type": "1000"
+  },
+  {
+    "Id": "422",
+    "Name": "Cincinnati Open",
+    "SglDrawSize": 96,
+    "DblDrawSize": 32,
+    "Type": "1000"
+  },
+  {
+    "Id": "6242",
+    "Name": "Winston-Salem Open",
+    "SglDrawSize": 48,
+    "DblDrawSize": 16,
+    "Type": "250"
+  },
+  {
+    "Id": "560",
+    "Name": "US Open",
+    "SglDrawSize": 128,
+    "DblDrawSize": 64,
+    "Type": "GS"
+  },
+  {
+    "Id": "8097",
+    "Name": "Davis Cup Qualifiers 2nd Rd",
+    "SglDrawSize": 2,
+    "DblDrawSize": 1,
+    "Type": "DCR"
+  },
+  {
+    "Id": "7581",
+    "Name": "Chengdu Open",
+    "SglDrawSize": 28,
+    "DblDrawSize": 16,
+    "Type": "250"
+  },
+  {
+    "Id": "4713",
+    "Name": "Lynk & Co Hangzhou Open",
+    "SglDrawSize": 28,
+    "DblDrawSize": 16,
+    "Type": "250"
+  },
+  {
+    "Id": "9210",
+    "Name": "Laver Cup",
+    "SglDrawSize": 12,
+    "DblDrawSize": 12,
+    "Type": "LVR"
+  },
+  {
+    "Id": "329",
+    "Name": "Kinoshita Group Japan Open Tennis Championships",
+    "SglDrawSize": 32,
+    "DblDrawSize": 16,
+    "Type": "500"
+  },
+  {
+    "Id": "747",
+    "Name": "China Open",
+    "SglDrawSize": 32,
+    "DblDrawSize": 16,
+    "Type": "500"
+  },
+  {
+    "Id": "5014",
+    "Name": "Rolex Shanghai Masters",
+    "SglDrawSize": 96,
+    "DblDrawSize": 32,
+    "Type": "1000"
+  },
+  {
+    "Id": "9410",
+    "Name": "Almaty Open",
+    "SglDrawSize": 28,
+    "DblDrawSize": 16,
+    "Type": "250"
+  },
+  {
+    "Id": "7485",
+    "Name": "BNP Paribas Fortis European Open",
+    "SglDrawSize": 28,
+    "DblDrawSize": 16,
+    "Type": "250"
+  },
+  {
+    "Id": "429",
+    "Name": "BNP Paribas Nordic Open",
+    "SglDrawSize": 28,
+    "DblDrawSize": 16,
+    "Type": "250"
+  },
+  {
+    "Id": "337",
+    "Name": "Erste Bank Open",
+    "SglDrawSize": 32,
+    "DblDrawSize": 16,
+    "Type": "500"
+  },
+  {
+    "Id": "328",
+    "Name": "Swiss Indoors Basel",
+    "SglDrawSize": 32,
+    "DblDrawSize": 16,
+    "Type": "500"
+  },
+  {
+    "Id": "352",
+    "Name": "Rolex Paris Masters",
+    "SglDrawSize": 56,
+    "DblDrawSize": 28,
+    "Type": "1000"
+  },
+  {
+    "Id": "5100",
+    "Name": "Vanda Pharmaceuticals Hellenic Championship",
+    "SglDrawSize": 28,
+    "DblDrawSize": 16,
+    "Type": "250"
+  },
+  {
+    "Id": "341",
+    "Name": "Moselle Open",
+    "SglDrawSize": 28,
+    "DblDrawSize": 16,
+    "Type": "250"
+  },
+  {
+    "Id": "605",
+    "Name": "Nitto ATP Finals",
+    "SglDrawSize": 8,
+    "DblDrawSize": 8,
+    "Type": "WC"
+  },
+  {
+    "Id": "8099",
+    "Name": "Davis Cup Finals",
+    "SglDrawSize": 2,
+    "DblDrawSize": 1,
+    "Type": "DCR"
+  },
+  {
+    "Id": "7696",
+    "Name": "Next Gen ATP Finals presented by PIF",
+    "SglDrawSize": 8,
+    "DblDrawSize": 0,
+    "Type": "XXI"
+  },
+  {
+    "Id": "7290",
+    "Name": "Millennium Estoril Open",
+    "SglDrawSize": 28,
+    "DblDrawSize": 16,
+    "Type": "250"
+  }
+]
